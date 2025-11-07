@@ -7,7 +7,7 @@ metadata:
     app.kubernetes.io/name: contosoair
     kubernetes.azure.com/generator: devhub
 data:
-  AZURE_OPENAI_API_VERSION: 2024-12-01-preview
-  AZURE_OPENAI_DEPLOYMENT: gpt-4.1-mini
-  CHAT_PROVIDER: azure
-  LOG_CHAT: true
+  AZURE_OPENAI_API_VERSION: "2024-12-01-preview"
+  AZURE_OPENAI_DEPLOYMENT: "gpt-4.1-mini"
+  CHAT_PROVIDER: "azure"
+  LOG_CHAT: "true"
